@@ -1,4 +1,4 @@
-# ¡Hola! Soy Adriana 
+# ¡Hola! Soy Adriana 🚀 💻
 
 ***
 
