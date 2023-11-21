@@ -1,4 +1,4 @@
-# ¡Hola! Soy Adriana :sparkles:
+# ¡Hola! Soy Adriana 
 
 ***
 
