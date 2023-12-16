@@ -1,5 +1,4 @@
 # ¡Hello World! 👋 
-   [IMG_9880.jpg
 ***
 
 ![img emoji](/asset/IMG_9880.jpg)
