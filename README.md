@@ -1,12 +1,17 @@
-# ¡Hola! Soy Adriana 🚀 💻
+# ¡Hi! 👋 
 
 ***
 
-Mi nombre es Adriana, estudié Marketing especializandome en marketing digital. Soy una persona muy activa y curiosa, me encanta estar aprendiendo cosas nuevas continuamente y embarcarme en proyectos que me reten.
+I'm Adriana, I studied Marketing specialising in digital marketing. I am a very active and curious person, I love learning new things all the time and embarking on projects that challenge me. I am embarking on the adventure to become a developer 🚀 💻
 
-Actualmente estoy aprendiendo 
--  **BOOTSTRAP**
+## SKILLS
+
+I am currently learning 
+* **BOOTSTRAP**
 * **CSS**
-+ **HTML**,
-- **JAVASCRIPT**
+* **HTML**,
+* **JAVASCRIPT**
 
+## CONTACT
+
+You can find my socials and resume on [LinkedIn] (https://www.linkedin.com/in/adriana-chiquito-proa%C3%B1o-064a6011b/)
