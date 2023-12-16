@@ -1,8 +1,7 @@
 # ¡Hello World! 👋 
 ***
 
-<img src="asset/IMG_9880.png" width="200">
-
+![img emoji](/asset/IMG_9880.jpg)
 
 I'm Adriana, I studied Marketing specialising in digital marketing. I am a very active and curious person, I love learning new things all the time and joining challenging projects. I am embarking on the adventure of becoming a developer. 🚀 💻
 
