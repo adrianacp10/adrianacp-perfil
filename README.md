@@ -16,6 +16,6 @@ I am currently learning:
 
 ## CONTACT
 
-You can find my socials and resume on [LinkedIn](https://www.linkedin.com/in/adriana-chiquito-proa%C3%B1o-064a6011b/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/adriana-chiquito-proa%C3%B1o-064a6011b/)
 
 
