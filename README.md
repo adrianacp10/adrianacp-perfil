@@ -11,6 +11,7 @@ Software Developer with experience in IT support, currently collaborating on pro
 * **HTML**
 * **JAVASCRIPT**
 * **PYTHON**
+*  **VUE**
 * **SQL**
 
 ## CONTACT
